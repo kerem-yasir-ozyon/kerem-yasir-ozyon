@@ -1,6 +1,6 @@
 <img align="center" src="https://png.pngtree.com/background/20230625/original/pngtree-3d-rendering-of-technology-and-website-development-picture-image_4044017.jpg" alt="kerem-yasir-özyön" height="300" width="1100" />
 <h1 align="center">Hi 👋, I'm Kerem</h1>
-<h3 align="center">A passionate .Net backend developer</h3>
+<h3 align="center">A passionate Full Stack .Net Developer</h3>
 
 - I graduated from Konya Technical University, department of mechanical engineering. I'm developing myself in the field of Full Stack Software. I'm passionate about camping, chess and football.
 
