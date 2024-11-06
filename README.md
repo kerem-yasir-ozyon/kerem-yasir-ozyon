@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20230625/original/pngtree-3d-rendering-of-technology-and-website-development-picture-image_4044017.jpg)
+<img align="center" src="https://png.pngtree.com/background/20230625/original/pngtree-3d-rendering-of-technology-and-website-development-picture-image_4044017.jpg" alt="kerem-yasir-özyön" height="400" width="1100" />
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">A passionate .Net backend developer</h3>
 
