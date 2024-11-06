@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">A passionate .Net backend developer</h3>
 
-- I graduated from Konya Technical University, department of mechanical engineering.I am developing myself in the field of Full Stack Software.I am passionate about camping, chess and football.
+- I graduated from Konya Technical University, department of mechanical engineering. I'm developing myself in the field of Full Stack Software. I'm passionate about camping, chess and football.
 
 - I am actively learning and using C#, ASP.NET Core, ASP.NET MVC, ASP.NET Identity, Web API, SQL Server, Entity Framework Core, HTML, CSS, JavaScript, jQuery, Ajax, Bootstrap 5, and React.js.
 
